@@ -5,6 +5,7 @@ public class GitHub1 {
 
 
 		System.out.println("En este proyecto trabajaremos con el repositorio GITHUB.");
+		System.out.println("Este proyecto está muy chulo.");
 
 	}
 
